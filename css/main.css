@@ -132,6 +132,9 @@
     letter-spacing: 0px;
     text-align: center;    
 }
+
+/* -----------------------------------------------------hover---------------------------------------------------- */
+
 .hover__container{
     max-width: 1150px;
     margin: 0 auto;
