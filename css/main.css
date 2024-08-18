@@ -90,6 +90,9 @@
     color: antiquewhite;
     border-radius: 5px;
 }
+
+/* -------------------------------------------------------wrapper------------------------------------------------------------------- */
+
 .wrapper{
     background-image: url(../images/Group\ 13.png);
     background-repeat: no-repeat;
