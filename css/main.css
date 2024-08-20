@@ -201,6 +201,8 @@
     background: #0E8784;
 }
 .wrap__list-one:hover{
+    transform: scale(0.98);
+    transition: 1s;
     border-radius:10px;
     text-align: center;
     width: 350px;
@@ -214,6 +216,8 @@
     background: #0E8784;
 }
 .wrap__list-two:hover{
+    transform: scale(0.98);
+    transition: 1s;
     border-radius: 10px;
     text-align: center;
     margin-left: 50px;
@@ -228,6 +232,8 @@
     background: #0E8784;
 }
 .wrap__list-three:hover{
+    transform: scale(0.98);
+    transition: 1s;
     border-radius: 10px;
     text-align: center;
     margin-left: 50px;
