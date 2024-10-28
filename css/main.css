@@ -103,7 +103,7 @@
     transition: 1s;
     padding: 10px 20px;
     border: 1px solid blue;
-    background: transparent;
+    background: blue;
     color: antiquewhite;
     border-radius: 5px;
 }
