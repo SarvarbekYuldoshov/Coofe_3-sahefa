@@ -102,7 +102,7 @@
     transform: scale(1.1);
     transition: 1s;
     padding: 10px 20px;
-    border: 1px solid #FFFF;
+    border: 1px solid blue;
     background: transparent;
     color: antiquewhite;
     border-radius: 5px;
@@ -151,7 +151,7 @@
 }
 .wrapper-img{
     transform: scale(1.1);
-    transition: 1s;
+    transition: 1s; 
 }
 /* -----------------------------------------------------hover---------------------------------------------------- */
 
